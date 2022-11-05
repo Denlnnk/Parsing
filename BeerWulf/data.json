@@ -1,0 +1,3258 @@
+{
+    "searchTerm": null,
+    "totalMatching": 177,
+    "pageSize": 48,
+    "pageNumber": 1,
+    "shouldCurrentUserSeeReservedStock": false,
+    "currency": "£",
+    "categoryHeader": {
+        "title": null,
+        "introduction": null,
+        "relatedInformation": null,
+        "seoUri": null,
+        "image": null
+    },
+    "items": [
+        {
+            "title": "Affligem Blond - 2L SUB Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/affligem-blond-2l-keg_1_02.png",
+                    "badge": {
+                        "url": "/globalassets/catalog/beerwulf/beers/awards/wba19-belgium-gold.png",
+                        "alt": "WBA 2019 Belgium Gold",
+                        "title": "WBA 2019 Belgium Gold"
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/affligem-blond-2l-keg",
+            "redirectedUrl": null,
+            "details": "Blond Beer | 6.7% | 2 Litres",
+            "worksWithLabel": "Sub",
+            "productIcon": "https://www.beerwulf.com/globalassets/icons/draught-system-icon/sub_icon.svg?rev=1695722248",
+            "searchItemType": 0,
+            "promotedPages": [
+                {
+                    "promotedPageId": 40650,
+                    "order": 8
+                }
+            ],
+            "code": "Affligem-Blond-2L-Keg_1",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "Blond Beer",
+            "alcoholPercentage": 6.7,
+            "volume": 200.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 11.99",
+                "filterPrice": 11.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 6.00",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "Torp",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Delirium Tremens - 2L SUB Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/delirium-tremens-2l-keg_1_0.png",
+                    "badge": {
+                        "url": "/globalassets/catalog/beerwulf/beers/awards/meininger-platin-2018.png",
+                        "alt": "Meininger 2018 Platin",
+                        "title": "Meininger 2018 Platin"
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/delirium-tremens-2l-keg",
+            "redirectedUrl": null,
+            "details": "Blond Beer | 8.5% | 2 Litres",
+            "worksWithLabel": "Sub",
+            "productIcon": "https://www.beerwulf.com/globalassets/icons/draught-system-icon/sub_icon.svg?rev=1695722248",
+            "searchItemType": 0,
+            "promotedPages": [],
+            "code": "Delirium-Tremens-2L-keg_1",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "Blond Beer",
+            "alcoholPercentage": 8.5,
+            "volume": 200.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 18.99",
+                "filterPrice": 18.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 9.50",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "Torp",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Lagunitas IPA - 2L SUB Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/lagunitas-ipa-2l-keg_1_02.png",
+                    "badge": {
+                        "url": "/",
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/lagunitas-ipa-2l-keg",
+            "redirectedUrl": null,
+            "details": "IPA | 6.2% | 2 Litres",
+            "worksWithLabel": "Sub",
+            "productIcon": "https://www.beerwulf.com/globalassets/icons/draught-system-icon/sub_icon.svg?rev=1695722248",
+            "searchItemType": 0,
+            "promotedPages": [],
+            "code": "Lagunitas-IPA-2L-keg_1",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "IPA",
+            "alcoholPercentage": 6.2,
+            "volume": 200.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 13.99",
+                "filterPrice": 13.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 7.00",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "Torp",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Tiger - 2L SUB Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/tiger-2l-keg_1_0.png",
+                    "badge": {
+                        "url": "/",
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/tiger-2l-keg",
+            "redirectedUrl": null,
+            "details": "Lager | 4.8% | 2 Litres",
+            "worksWithLabel": "Sub",
+            "productIcon": "https://www.beerwulf.com/globalassets/icons/draught-system-icon/sub_icon.svg?rev=1695722248",
+            "searchItemType": 0,
+            "promotedPages": [],
+            "code": "Tiger-2L-keg_1",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "Lager",
+            "alcoholPercentage": 4.8,
+            "volume": 200.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 10.99",
+                "filterPrice": 10.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 5.50",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "Torp",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Cruzcampo Especial - 2L SUB Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/cruzcampo-especial-2l-keg_1_1.png",
+                    "badge": {
+                        "url": "/",
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/cruzcampo-especial-2l-keg",
+            "redirectedUrl": null,
+            "details": "Lager | 5.6% | 2 Litres",
+            "worksWithLabel": "Sub",
+            "productIcon": "https://www.beerwulf.com/globalassets/icons/draught-system-icon/sub_icon.svg?rev=1695722248",
+            "searchItemType": 0,
+            "promotedPages": [],
+            "code": "Cruzcampo-Especial-2L-keg_1",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "Lager",
+            "alcoholPercentage": 5.6,
+            "volume": 200.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 10.99",
+                "filterPrice": 10.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 5.50",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "Torp",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Hofbräu Kaltenhausen Gandolf IPA - 2L SUB Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/hofbrau-kaltenhausen-gandolf-ipa-2l-keg_1_1.png",
+                    "badge": {
+                        "url": "/",
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/hofbrau-kaltenhausen-gandolf-ipa-2l-keg",
+            "redirectedUrl": null,
+            "details": "IPA | 7.9% | 2 Litres",
+            "worksWithLabel": "Sub",
+            "productIcon": "https://www.beerwulf.com/globalassets/icons/draught-system-icon/sub_icon.svg?rev=1695722248",
+            "searchItemType": 0,
+            "promotedPages": [
+                {
+                    "promotedPageId": 40650,
+                    "order": 2
+                }
+            ],
+            "code": "Hofbrau-Kaltenhausen-Gandolf-IPA-2L-keg_1",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "IPA",
+            "alcoholPercentage": 7.9,
+            "volume": 200.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 12.49",
+                "filterPrice": 12.49,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 6.25",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "Torp",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Newcastle Brown Ale - 2L SUB Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/new-castle-brown-ale-2l-keg_1_04.png",
+                    "badge": {
+                        "url": "/",
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/newcastle-brown-ale-2l-keg",
+            "redirectedUrl": null,
+            "details": "Brown Ale | 4.7% | 2 Litres",
+            "worksWithLabel": "Sub",
+            "productIcon": "https://www.beerwulf.com/globalassets/icons/draught-system-icon/sub_icon.svg?rev=1695722248",
+            "searchItemType": 0,
+            "promotedPages": [],
+            "code": "New-Castle-Brown-Ale-2L-keg_1",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "Brown Ale",
+            "alcoholPercentage": 4.7,
+            "volume": 200.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 11.29",
+                "filterPrice": 11.29,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 5.65",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "Torp",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Fourpure Session IPA - 2L SUB Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/fourpure-session-ipa-2l-keg_1_04.png",
+                    "badge": {
+                        "url": "/",
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/fourpure-session-ipa-2l-keg",
+            "redirectedUrl": null,
+            "details": "IPA | 4.2% | 2 Litres",
+            "worksWithLabel": "Sub",
+            "productIcon": "https://www.beerwulf.com/globalassets/icons/draught-system-icon/sub_icon.svg?rev=1695722248",
+            "searchItemType": 0,
+            "promotedPages": [],
+            "code": "Fourpure-Session-IPA-2L-Keg_1",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "IPA",
+            "alcoholPercentage": 4.2,
+            "volume": 200.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 15.99",
+                "filterPrice": 15.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 8.00",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "Torp",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Desperados - 5L Draught Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/catalog/beerwulf/beers/5l-keg/draught_keg_5l_desperados_original.png",
+                    "badge": {
+                        "url": "/",
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/desperados-5l-keg",
+            "redirectedUrl": null,
+            "details": "Lager | 5.9% | 5 Litres",
+            "worksWithLabel": "Beer Tender",
+            "productIcon": "https://www.beerwulf.com/globalassets/icons/draught-system-icon/beertender_icon.svg?rev=1268836488",
+            "searchItemType": 0,
+            "promotedPages": [],
+            "code": "Desperados-5L-Keg_1",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "Lager",
+            "alcoholPercentage": 5.9,
+            "volume": 500.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 26.99",
+                "filterPrice": 26.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 5.40",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "DraughtKeg",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Krombacher Pils - 5L Draught Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/krombacher-pilsdraughtkeg5_14692_2.png",
+                    "badge": {
+                        "url": "/",
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/krombacher-pils-5l-keg",
+            "redirectedUrl": null,
+            "details": "Lager | 4.8% | 5 Litres",
+            "worksWithLabel": "Beer Tender",
+            "productIcon": "https://www.beerwulf.com/globalassets/icons/draught-system-icon/beertender_icon.svg?rev=1268836488",
+            "searchItemType": 0,
+            "promotedPages": [],
+            "code": "Krombacher-PilsDraughtKeg5_14692",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "Lager",
+            "alcoholPercentage": 4.8,
+            "volume": 500.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 26.99",
+                "filterPrice": 26.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 5.40",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "DraughtKeg",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Strongbow Original Cider - 2L SUB Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/strongbow-original-cider---sub-keg_beer_22287_0.png",
+                    "badge": {
+                        "url": "/",
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/strongbow-original-cider--2l-keg",
+            "redirectedUrl": null,
+            "details": "Cider | 4.5% | 2 Litres",
+            "worksWithLabel": "Sub",
+            "productIcon": "https://www.beerwulf.com/globalassets/icons/draught-system-icon/sub_icon.svg?rev=1695722248",
+            "searchItemType": 0,
+            "promotedPages": [
+                {
+                    "promotedPageId": 40650,
+                    "order": 3
+                }
+            ],
+            "code": "Strongbow-Original-Cider---SUB-Keg_Beer_22287",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "Cider",
+            "alcoholPercentage": 4.5,
+            "volume": 200.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 9.49",
+                "filterPrice": 9.49,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 4.75",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "Torp",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Puntigamer - 2L SUB Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/puntigamer---sub-keg_beer_23044_03.png",
+                    "badge": {
+                        "url": "/",
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/puntigamer-2l-keg",
+            "redirectedUrl": null,
+            "details": "Lager | 5.2% | 2 Litres",
+            "worksWithLabel": "Sub",
+            "productIcon": "https://www.beerwulf.com/globalassets/icons/draught-system-icon/sub_icon.svg?rev=1695722248",
+            "searchItemType": 0,
+            "promotedPages": [],
+            "code": "Puntigamer---SUB-Keg_Beer_23044",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "Lager",
+            "alcoholPercentage": 5.2,
+            "volume": 200.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 10.99",
+                "filterPrice": 10.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 5.50",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "Torp",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Paulaner Weissbier - 5L Draught Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/paulaner-weissbier---draught-keg_beer_23351_0.png",
+                    "badge": {
+                        "url": "/",
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/paulaner-weissbier-5L-Keg",
+            "redirectedUrl": null,
+            "details": "German Wheat Beer | 5.5% | 5 Litres",
+            "worksWithLabel": null,
+            "productIcon": null,
+            "searchItemType": 0,
+            "promotedPages": [
+                {
+                    "promotedPageId": 40819,
+                    "order": 6
+                }
+            ],
+            "code": "Paulaner-Weissbier---Draught-Keg_Beer_23351",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "German Wheat Beer",
+            "alcoholPercentage": 5.5,
+            "volume": 500.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 29.99",
+                "filterPrice": 29.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 6.00",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "DraughtKeg",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Desperados - 8L BLADE Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/desperados-blade-keg_beer_23543_02.png",
+                    "badge": {
+                        "url": "/",
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/desperados-8L-keg",
+            "redirectedUrl": null,
+            "details": "Lager | 5.9% | 8 Litres",
+            "worksWithLabel": "Blade",
+            "productIcon": "https://www.beerwulf.com/globalassets/icons/draught-system-icon/blade_icon.svg?rev=1695722248",
+            "searchItemType": 0,
+            "promotedPages": [
+                {
+                    "promotedPageId": 40651,
+                    "order": 0
+                }
+            ],
+            "code": "Desperados-BLADE-Keg_Beer_23543",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "Lager",
+            "alcoholPercentage": 5.9,
+            "volume": 800.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 39.99",
+                "filterPrice": 39.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 5.00",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "BladeKeg",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Messina Cristalli Di Sale - 8L BLADE Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/messina-cristalli-di-sale---8l-blade-keg_beer_23827_03.png",
+                    "badge": {
+                        "url": "/",
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/messina-cristalli-di-sale-8L-keg",
+            "redirectedUrl": null,
+            "details": "Lager | 5.0% | 8 Litres",
+            "worksWithLabel": "Blade",
+            "productIcon": "https://www.beerwulf.com/globalassets/icons/draught-system-icon/blade_icon.svg?rev=1695722248",
+            "searchItemType": 0,
+            "promotedPages": [],
+            "code": "Messina-Cristalli-Di-Sale---8L-BLADE-Keg_Beer_23827",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "Lager",
+            "alcoholPercentage": 5.0,
+            "volume": 800.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 37.99",
+                "filterPrice": 37.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 4.75",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "BladeKeg",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Wild Beer Co IPA - 2L SUB Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/wild-beer-co-ipa---sub-keg-v2_beer_24040_0.png",
+                    "badge": {
+                        "url": "/",
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/wild-beer-co-ipa-2l--keg",
+            "redirectedUrl": null,
+            "details": "IPA | 5.2% | 2 Litres",
+            "worksWithLabel": "Sub",
+            "productIcon": "https://www.beerwulf.com/globalassets/icons/draught-system-icon/sub_icon.svg?rev=1695722248",
+            "searchItemType": 0,
+            "promotedPages": [],
+            "code": "Wild-Beer-Co-IPA---SUB-Keg-V2_Beer_24040",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "IPA",
+            "alcoholPercentage": 5.2,
+            "volume": 200.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 15.99",
+                "filterPrice": 15.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 8.00",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "Torp",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Mama IPA - 2L SUB Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/mama-ipa---sub-keg-v2_beer_24044_0.png",
+                    "badge": {
+                        "url": "/",
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/mama-ipa-2l--keg",
+            "redirectedUrl": null,
+            "details": "IPA | 5.9% | 2 Litres",
+            "worksWithLabel": "Sub",
+            "productIcon": "https://www.beerwulf.com/globalassets/icons/draught-system-icon/sub_icon.svg?rev=1695722248",
+            "searchItemType": 0,
+            "promotedPages": [],
+            "code": "Mama-IPA---SUB-Keg-V2_Beer_24044",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "IPA",
+            "alcoholPercentage": 5.9,
+            "volume": 200.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 16.99",
+                "filterPrice": 16.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 8.50",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "Torp",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Affligem Dubbel - 2L SUB Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/affligem-dubbel---sub-keg-v2_beer_24046_0.png",
+                    "badge": {
+                        "url": "/",
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/affligem-dubbel--2l-keg",
+            "redirectedUrl": null,
+            "details": "Dubbel Beer | 6.8% | 2 Litres",
+            "worksWithLabel": "Sub",
+            "productIcon": "https://www.beerwulf.com/globalassets/icons/draught-system-icon/sub_icon.svg?rev=1695722248",
+            "searchItemType": 0,
+            "promotedPages": [],
+            "code": "Affligem-Dubbel---SUB-Keg-V2_Beer_24046",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "Dubbel Beer",
+            "alcoholPercentage": 6.8,
+            "volume": 200.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 12.99",
+                "filterPrice": 12.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 6.50",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "Torp",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Lagunitas DayTime - 2L SUB Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/lagunitas-daytime---sub-keg-v2_beer_24050_0.png",
+                    "badge": {
+                        "url": "/",
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/lagunitas-daytime-2l--keg",
+            "redirectedUrl": null,
+            "details": "IPA | 4.0% | 2 Litres",
+            "worksWithLabel": "Sub",
+            "productIcon": "https://www.beerwulf.com/globalassets/icons/draught-system-icon/sub_icon.svg?rev=1695722248",
+            "searchItemType": 0,
+            "promotedPages": [],
+            "code": "Lagunitas-DayTime---SUB-Keg-V2_Beer_24050",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "IPA",
+            "alcoholPercentage": 4.0,
+            "volume": 200.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 13.99",
+                "filterPrice": 13.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 7.00",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "Torp",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Hapkin - 2L SUB Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/hapkin---sub-keg-v2_beer_24052_0.png",
+                    "badge": {
+                        "url": "/",
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/hapkin--2l-keg",
+            "redirectedUrl": null,
+            "details": "Blond Beer | 8.5% | 2 Litres",
+            "worksWithLabel": "Sub",
+            "productIcon": "https://www.beerwulf.com/globalassets/icons/draught-system-icon/sub_icon.svg?rev=1695722248",
+            "searchItemType": 0,
+            "promotedPages": [
+                {
+                    "promotedPageId": 40650,
+                    "order": 6
+                }
+            ],
+            "code": "Hapkin---SUB-Keg-V2_Beer_24052",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "Blond Beer",
+            "alcoholPercentage": 8.5,
+            "volume": 200.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 14.99",
+                "filterPrice": 14.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 7.50",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "Torp",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Lagunitas IPA - 5L Draught Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/lagunitas-ipa---5l-draught-keg_beer_24142_02.png",
+                    "badge": {
+                        "url": "/",
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/lagunitas-ipa-5L-draught-keg",
+            "redirectedUrl": null,
+            "details": "IPA | 6.2% | 5 Litres",
+            "worksWithLabel": "Beer Tender",
+            "productIcon": "https://www.beerwulf.com/globalassets/icons/draught-system-icon/beertender_icon.svg?rev=1268836488",
+            "searchItemType": 0,
+            "promotedPages": [],
+            "code": "Lagunitas-IPA---5L-Draught-Keg_Beer_24142",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "IPA",
+            "alcoholPercentage": 6.2,
+            "volume": 500.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 27.99",
+                "filterPrice": 27.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 5.60",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "DraughtKeg",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Villacher Märzen - 8L BLADE Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/villacher-marzen--8l-blade-keg_beer_24494_02.png",
+                    "badge": {
+                        "url": "/",
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/Villacher-Marzen-8L-BLADE-Keg-",
+            "redirectedUrl": null,
+            "details": "Lager | 5.0% | 8 Litres",
+            "worksWithLabel": "Blade",
+            "productIcon": "https://www.beerwulf.com/globalassets/icons/draught-system-icon/blade_icon.svg?rev=1695722248",
+            "searchItemType": 0,
+            "promotedPages": [],
+            "code": "Villacher-Marzen--8L-BLADE-Keg_Beer_24494",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "Lager",
+            "alcoholPercentage": 5.0,
+            "volume": 800.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 37.99",
+                "filterPrice": 37.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 4.75",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "BladeKeg",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Jopen 4-granen Bock -2L SUB Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/jopen-4-granen-bock_beer_24614_0.png",
+                    "badge": {
+                        "url": "/",
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/jopen-4-granen-bock-2L-SUB-keg",
+            "redirectedUrl": null,
+            "details": "Bock Beer | 6.5% | 2 Litres",
+            "worksWithLabel": "Sub",
+            "productIcon": "https://www.beerwulf.com/globalassets/icons/draught-system-icon/sub_icon.svg?rev=1695722248",
+            "searchItemType": 0,
+            "promotedPages": [],
+            "code": "Jopen-4-granen-Bock_Beer_24614",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "Bock Beer",
+            "alcoholPercentage": 6.5,
+            "volume": 200.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 16.99",
+                "filterPrice": 16.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 8.50",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "Torp",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Tricky Tripel - 2L SUB Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/gebrouwen-door-vrouwen---tripel-trap_beer_24870_0.png",
+                    "badge": {
+                        "url": "/",
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/tricky-tripel-2L-SUB-keg",
+            "redirectedUrl": null,
+            "details": "Tripel Beer | 7.8% | 2 Litres",
+            "worksWithLabel": "Sub",
+            "productIcon": "https://www.beerwulf.com/globalassets/icons/draught-system-icon/sub_icon.svg?rev=1695722248",
+            "searchItemType": 0,
+            "promotedPages": [],
+            "code": "Gebrouwen-door-Vrouwen---Tripel-Trap_Beer_24870",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "Tripel Beer",
+            "alcoholPercentage": 7.8,
+            "volume": 200.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 18.99",
+                "filterPrice": 18.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 9.50",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "Torp",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Birra Moretti Baffo d'Oro - 8L BLADE Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/birra-moretti-baffo-doro---8l-blade-keg_beer_24878_02.png",
+                    "badge": {
+                        "url": "/",
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/birra-moretti-baffo-doro-8L-blade-keg",
+            "redirectedUrl": null,
+            "details": "Lager | 4.8% | 8 Litres",
+            "worksWithLabel": "Blade",
+            "productIcon": "https://www.beerwulf.com/globalassets/icons/draught-system-icon/blade_icon.svg?rev=1695722248",
+            "searchItemType": 0,
+            "promotedPages": [
+                {
+                    "promotedPageId": 40651,
+                    "order": 7
+                }
+            ],
+            "code": "Birra-Moretti-Baffo-dOro---8L-BLADE-Keg_Beer_24878",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "Lager",
+            "alcoholPercentage": 4.8,
+            "volume": 800.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 36.99",
+                "filterPrice": 36.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 4.62",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "BladeKeg",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Brouwerij 't IJ IJwit value case",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/4.-products/packs/value-packs/brouwerij_t_ij_ijwit_box.png",
+                    "badge": null,
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beercases/brouwerij-t-ij-ijwit-value-case",
+            "redirectedUrl": null,
+            "details": "White Beer | 6.5% | 24 x 33 cl",
+            "worksWithLabel": null,
+            "productIcon": null,
+            "searchItemType": 1,
+            "promotedPages": [],
+            "code": "Brouwerij-t-IJ-IJwit-voordeelverpakking_1",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "",
+            "alcoholPercentage": null,
+            "volume": 792.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 60.99",
+                "filterPrice": 60.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 7.70",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "La Chouffe Blonde D'ardenne - 2L SUB Keg A Little Sumpin Sumpin Value Case",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/lagunitas-a-little-sumpin-sumpin-voordeelverpakking_1_03.png",
+                    "badge": null,
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beercases/lagunitas-a-little-sumpin-sumpin-value-case",
+            "redirectedUrl": null,
+            "details": "IPA | 7.5% | 24 x 36 cl",
+            "worksWithLabel": null,
+            "productIcon": null,
+            "searchItemType": 1,
+            "promotedPages": [],
+            "code": "Lagunitas-A-Little-Sumpin-Sumpin-voordeelverpakking_1",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "",
+            "alcoholPercentage": null,
+            "volume": 852.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 61.99",
+                "filterPrice": 61.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 7.28",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Beerwulf Tasting Beer Glass Case",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/6-harmony-beerwulf-glass-pack_pack_22730_0.png",
+                    "badge": null,
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beercases/Beerwulf-Tasting-Beer-Glass-Case",
+            "redirectedUrl": null,
+            "details": "6 Items",
+            "worksWithLabel": null,
+            "productIcon": null,
+            "searchItemType": 1,
+            "promotedPages": [],
+            "code": "6-Harmony-Beerwulf-Glass-Pack_Pack_22730",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "",
+            "alcoholPercentage": null,
+            "volume": 0.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 27.99",
+                "filterPrice": 27.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "0",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Beerwulf Lager Beer Glass Case",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/6-frankonia-beerwulf-glass-pack_pack_22773_0.png",
+                    "badge": null,
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beercases/Beerwulf-Lager-Beer-Glass-Case",
+            "redirectedUrl": null,
+            "details": "6 Items",
+            "worksWithLabel": null,
+            "productIcon": null,
+            "searchItemType": 1,
+            "promotedPages": [],
+            "code": "6-Frankonia-Beerwulf-Glass-Pack_Pack_22773",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "",
+            "alcoholPercentage": null,
+            "volume": 0.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 25.99",
+                "filterPrice": 25.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "0",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Heineken Beer Glass Case",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/6-heineken-glass-pack_pack_22777_05.png",
+                    "badge": null,
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beercases/6-heineken-beer-glass-case",
+            "redirectedUrl": null,
+            "details": "6 Items",
+            "worksWithLabel": null,
+            "productIcon": null,
+            "searchItemType": 1,
+            "promotedPages": [],
+            "code": "6-Heineken-Glass-Pack_Pack_22777",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "",
+            "alcoholPercentage": null,
+            "volume": 0.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 20.99",
+                "filterPrice": 20.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "0",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Beerwulf Mixed Beer Glass Case",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/6-mixed-beewulf-glass-pack_pack_22808_0.png",
+                    "badge": null,
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beercases/Beerwulf-Mixed-Beer-Glass-Case",
+            "redirectedUrl": null,
+            "details": "6 Items",
+            "worksWithLabel": null,
+            "productIcon": null,
+            "searchItemType": 1,
+            "promotedPages": [],
+            "code": "6-Mixed-Beewulf-Glass-Pack_Pack_22808",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "",
+            "alcoholPercentage": null,
+            "volume": 0.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 26.99",
+                "filterPrice": 26.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "0",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Belgian Beer Case",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/belgian-pack_pack_24692_0.png",
+                    "badge": null,
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beercases/Belgian-beer-case",
+            "redirectedUrl": null,
+            "details": "10 Items",
+            "worksWithLabel": null,
+            "productIcon": null,
+            "searchItemType": 1,
+            "promotedPages": [],
+            "code": "Belgian-Pack_Pack_24692",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "",
+            "alcoholPercentage": null,
+            "volume": 314.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 43.99",
+                "filterPrice": 43.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 14.01",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "IPA Beer Case",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/ipa-pack_pack_24763_0.png",
+                    "badge": null,
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beercases/IPA-Beer-Case-1",
+            "redirectedUrl": null,
+            "details": "10 Items",
+            "worksWithLabel": null,
+            "productIcon": null,
+            "searchItemType": 1,
+            "promotedPages": [],
+            "code": "IPA-pack_Pack_24763",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "",
+            "alcoholPercentage": null,
+            "volume": 340.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 45.99",
+                "filterPrice": 45.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 13.53",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "World of Beer Case",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/world-of-beer-pack_pack_24804_0.png",
+                    "badge": null,
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beercases/World-of-Beer-Case",
+            "redirectedUrl": null,
+            "details": "8 Items",
+            "worksWithLabel": null,
+            "productIcon": null,
+            "searchItemType": 1,
+            "promotedPages": [],
+            "code": "World-of-Beer-Pack_Pack_24804",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "",
+            "alcoholPercentage": null,
+            "volume": 281.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 41.99",
+                "filterPrice": 41.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 14.94",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "12 Popular Beer Case",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/12-popular-beer-case-v5_pack_24882_0.png",
+                    "badge": null,
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beercases/12-popular-beer-case",
+            "redirectedUrl": null,
+            "details": "12 Items",
+            "worksWithLabel": null,
+            "productIcon": null,
+            "searchItemType": 1,
+            "promotedPages": [],
+            "code": "12-Popular-Beer-Case-V5_Pack_24882",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "",
+            "alcoholPercentage": null,
+            "volume": 376.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 27.50",
+                "filterPrice": 27.5,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 7.30",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Tiger Beer Glass Case",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/6-tiger-schooner-uk_accessories_24133_02.png",
+                    "badge": {
+                        "url": null,
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/accessories-2b42f2b9/6-tiger-schooner-beer-glass-case",
+            "redirectedUrl": null,
+            "details": null,
+            "worksWithLabel": null,
+            "productIcon": null,
+            "searchItemType": 6,
+            "promotedPages": [],
+            "code": "6-Tiger-Schooner-UK_Accessories_24133",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "Accessories",
+            "alcoholPercentage": null,
+            "volume": 0.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 27.99",
+                "filterPrice": 27.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "0",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "The Desperados BLADE Tap Handle",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/desperados-blade-taphandle_accessories_24408_03.png",
+                    "badge": {
+                        "url": null,
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/accessories-2b42f2b9/The-Desperados-BLADE-Tap-Handle",
+            "redirectedUrl": null,
+            "details": null,
+            "worksWithLabel": null,
+            "productIcon": null,
+            "searchItemType": 6,
+            "promotedPages": [],
+            "code": "Desperados-BLADE-Taphandle_Accessories_24408",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "Accessories",
+            "alcoholPercentage": null,
+            "volume": 0.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 29.99",
+                "filterPrice": 29.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "0",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "The Birra Moretti BLADE Sticker",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/birra-moretti-blade-sleeve_accessories_24414_03.png",
+                    "badge": {
+                        "url": null,
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/accessories-2b42f2b9/blade-sticker-birra-moretti",
+            "redirectedUrl": null,
+            "details": null,
+            "worksWithLabel": null,
+            "productIcon": null,
+            "searchItemType": 6,
+            "promotedPages": [],
+            "code": "Birra-Moretti-BLADE-Sleeve_Accessories_24414",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "Accessories",
+            "alcoholPercentage": null,
+            "volume": 0.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 19.99",
+                "filterPrice": 19.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "0",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "BLADE Birra Moretti Starter Pack",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/blade-2x-birra-moretti-8l-keg_04.png",
+                    "badge": null,
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beercases/blade-birra-moretti-8l-keg",
+            "redirectedUrl": null,
+            "details": "Blade + 2 x Birra Moretti 8L Kegs",
+            "worksWithLabel": null,
+            "productIcon": null,
+            "searchItemType": 1,
+            "promotedPages": [
+                {
+                    "promotedPageId": 40816,
+                    "order": 5
+                }
+            ],
+            "code": "BLADE-2x-Birra-Moretti-8L-Keg",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "",
+            "alcoholPercentage": null,
+            "volume": 1600.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 499",
+                "filterPrice": 499.0,
+                "fromPrice": "£ 542.98",
+                "discountPrice": null,
+                "discountPercentage": "-8",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 31.19",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": true,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "BLADE Tiger Starter Pack + Glasses",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/-blade--tiger---8l--glasses_skucollection_24315_02.png",
+                    "badge": null,
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beercases/BLADE-Tiger-Starter-Pack-Glasses",
+            "redirectedUrl": null,
+            "details": "4 Items",
+            "worksWithLabel": null,
+            "productIcon": null,
+            "searchItemType": 1,
+            "promotedPages": [
+                {
+                    "promotedPageId": 40816,
+                    "order": 7
+                }
+            ],
+            "code": "-BLADE--Tiger---8L--Glasses_SkuCollection_24315",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "",
+            "alcoholPercentage": null,
+            "volume": 1600.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 519",
+                "filterPrice": 519.0,
+                "fromPrice": "£ 570.97",
+                "discountPrice": null,
+                "discountPercentage": "-9",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 32.44",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": true,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Heineken Silver - 8L BLADE Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/heineken-silver---8l-blade-keg_beer_24084_0.png",
+                    "badge": {
+                        "url": "/",
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/heineken-silver-8l-keg",
+            "redirectedUrl": null,
+            "details": "Lager | 4.0% | 8 Litres",
+            "worksWithLabel": "Blade",
+            "productIcon": "https://www.beerwulf.com/globalassets/icons/draught-system-icon/blade_icon.svg?rev=1695722248",
+            "searchItemType": 0,
+            "promotedPages": [
+                {
+                    "promotedPageId": 40651,
+                    "order": 4
+                }
+            ],
+            "code": "Heineken-Silver---8L-BLADE-Keg_Beer_24084",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "Lager",
+            "alcoholPercentage": 4.0,
+            "volume": 800.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 34.99",
+                "filterPrice": 34.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 4.37",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "BladeKeg",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Advent Calendar Beer Case 2022",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/advent-calendar-pack-2022_pack_24681_010.jpeg",
+                    "badge": null,
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beercases/Advent-Calendar-Beer-Case-2022",
+            "redirectedUrl": null,
+            "details": "24 Items",
+            "worksWithLabel": null,
+            "productIcon": null,
+            "searchItemType": 1,
+            "promotedPages": [
+                {
+                    "promotedPageId": 40518,
+                    "order": 8
+                }
+            ],
+            "code": "Advent-Calendar-Pack-2022_Pack_24681",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "",
+            "alcoholPercentage": null,
+            "volume": 792.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 83.99",
+                "filterPrice": 83.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 10.60",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Amstel - 8L BLADE Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/amstel---blade-keg_beer_22674_03.png",
+                    "badge": {
+                        "url": "/",
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/amstel-8l-keg",
+            "redirectedUrl": null,
+            "details": "Lager | 4.1% | 8 Litres",
+            "worksWithLabel": "Blade",
+            "productIcon": "https://www.beerwulf.com/globalassets/icons/draught-system-icon/blade_icon.svg?rev=1695722248",
+            "searchItemType": 0,
+            "promotedPages": [],
+            "code": "Amstel---Blade-Keg_Beer_22674",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "Lager",
+            "alcoholPercentage": 4.1,
+            "volume": 800.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 33.99",
+                "filterPrice": 33.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 4.25",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "BladeKeg",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "Heineken - 8L BLADE Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/heineken-8l-blade-keg_1_2.png",
+                    "badge": {
+                        "url": "/",
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/heineken-blade-8l-keg",
+            "redirectedUrl": null,
+            "details": "Lager | 5.0% | 8 Litres",
+            "worksWithLabel": "Blade",
+            "productIcon": "https://www.beerwulf.com/globalassets/icons/draught-system-icon/blade_icon.svg?rev=1695722248",
+            "searchItemType": 0,
+            "promotedPages": [],
+            "code": "Heineken-8L-BLADE-Keg_1",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "Lager",
+            "alcoholPercentage": 5.0,
+            "volume": 800.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 34.99",
+                "filterPrice": 34.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 4.37",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "BladeKeg",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "BLADE Heineken Starter Pack + Glasses",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/blade--2-heineken---8l--6-hnk-glasses_skucollection_24311_03.png",
+                    "badge": null,
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beercases/BLADE-Heineken-Starter-Pack-Glasses",
+            "redirectedUrl": null,
+            "details": "5 Items",
+            "worksWithLabel": null,
+            "productIcon": null,
+            "searchItemType": 1,
+            "promotedPages": [],
+            "code": "BLADE--2-Heineken---8L--6-HNK-Glasses_SkuCollection_24311",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "",
+            "alcoholPercentage": null,
+            "volume": 1600.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 519",
+                "filterPrice": 519.0,
+                "fromPrice": "£ 559.97",
+                "discountPrice": null,
+                "discountPercentage": "-7",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 32.44",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": true,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "The SUB Compact Party Starter Pack",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/sub--4-bm-lautentica--4-amstel_skucollection_23727_0.png",
+                    "badge": null,
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beercases/SUB-Compact-4lautentica-4amstel",
+            "redirectedUrl": null,
+            "details": "9 Items",
+            "worksWithLabel": null,
+            "productIcon": null,
+            "searchItemType": 1,
+            "promotedPages": [],
+            "code": "SUB--4-BM-LAutentica--4-Amstel_SkuCollection_23727",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "",
+            "alcoholPercentage": null,
+            "volume": 1600.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 175",
+                "filterPrice": 175.0,
+                "fromPrice": "£ 208.52",
+                "discountPrice": null,
+                "discountPercentage": "-16",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 10.94",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": true,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "SUB Compact Affligem Starter Pack",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/the-sub-compact--4-affligem-2l-kegs---uk-sku-collection_skucollection_25151_02.png",
+                    "badge": null,
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beercases/SUB-Compact-Affligem-Starter-Pack",
+            "redirectedUrl": null,
+            "details": "5 Items",
+            "worksWithLabel": null,
+            "productIcon": null,
+            "searchItemType": 1,
+            "promotedPages": [],
+            "code": "The-SUB-Compact--4-Affligem-2L-Kegs---UK-SKU-Collection_SkuCollection_25151",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "",
+            "alcoholPercentage": null,
+            "volume": 800.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 149",
+                "filterPrice": 149.0,
+                "fromPrice": "£ 172.96",
+                "discountPrice": null,
+                "discountPercentage": "-14",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 18.63",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": true,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        },
+        {
+            "title": "La Chouffe Blonde D'ardenne - 2L SUB Keg",
+            "description": "",
+            "images": [
+                {
+                    "image": "/globalassets/catalog/beerwulf/beers/torps/with-label/torp_2lkeg_la_chouffe_blond.png",
+                    "badge": {
+                        "url": "/",
+                        "alt": null,
+                        "title": null
+                    },
+                    "name": null
+                }
+            ],
+            "contentReference": "/en-gb/p/beers/la-chouffe-blonde-dardenne-2l-keg",
+            "redirectedUrl": null,
+            "details": "Blond Beer | 8.0% | 2 Litres",
+            "worksWithLabel": "Sub",
+            "productIcon": "https://www.beerwulf.com/globalassets/icons/draught-system-icon/sub_icon.svg?rev=1695722248",
+            "searchItemType": 0,
+            "promotedPages": [
+                {
+                    "promotedPageId": 40650,
+                    "order": 4
+                }
+            ],
+            "code": "La-Chouffe-Blonde-Dardenne-2L-keg_1",
+            "inStock": true,
+            "isComingSoon": false,
+            "isBottleOrCan": false,
+            "inReserveStock": true,
+            "style": "Blond Beer",
+            "alcoholPercentage": 8.0,
+            "volume": 200.0,
+            "displayInformationPrice": {
+                "currency": "£",
+                "price": "£ 18.99",
+                "filterPrice": 18.99,
+                "fromPrice": null,
+                "discountPrice": null,
+                "discountPercentage": "0",
+                "valueIndicator": null,
+                "pricePerLiter": "£ 9.50",
+                "depositMoney": null,
+                "displayDepositMoneyAndPricePerLiter": false,
+                "hasDiscount": false,
+                "vatPercentage": "20%",
+                "saleType": "Regular",
+                "preorderAvailability": null
+            },
+            "amountInCart": 0,
+            "isInWishlist": false,
+            "containerType": "Torp",
+            "includesFreeItem": false,
+            "freeItemIcon": null,
+            "saleType": null,
+            "sellerId": "1",
+            "sellerName": null,
+            "sellerFriendlyUrl": null
+        }
+    ],
+    "filters": [
+        {
+            "min": 1.69,
+            "max": 549.0,
+            "filterType": 1,
+            "filterOptions": [
+                {
+                    "value": "Discounted Products\n",
+                    "availableResults": 20,
+                    "isSelected": false,
+                    "query": "price",
+                    "children": null,
+                    "sortIndex": 0
+                }
+            ],
+            "title": "Price range (£)",
+            "query": "priceRange"
+        },
+        {
+            "subQuery": null,
+            "filterOptions": [
+                {
+                    "value": "In stock",
+                    "availableResults": 160,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                }
+            ],
+            "filterType": 0,
+            "title": "Availability",
+            "query": "availability"
+        },
+        {
+            "subQuery": "productSubType",
+            "filterOptions": [
+                {
+                    "value": "Beer Kegs",
+                    "availableResults": 77,
+                    "isSelected": false,
+                    "query": null,
+                    "children": [
+                        {
+                            "value": "SUB Kegs",
+                            "availableResults": 41,
+                            "isSelected": false,
+                            "query": null,
+                            "children": null,
+                            "sortIndex": 100
+                        },
+                        {
+                            "value": "BLADE Kegs",
+                            "availableResults": 27,
+                            "isSelected": false,
+                            "query": null,
+                            "children": null,
+                            "sortIndex": 100
+                        },
+                        {
+                            "value": "DRAUGHT Kegs (5L)",
+                            "availableResults": 9,
+                            "isSelected": false,
+                            "query": null,
+                            "children": null,
+                            "sortIndex": 100
+                        }
+                    ],
+                    "sortIndex": 2
+                },
+                {
+                    "value": "Mixed Beer Cases",
+                    "availableResults": 8,
+                    "isSelected": false,
+                    "query": null,
+                    "children": [
+                        {
+                            "value": "Beer style cases",
+                            "availableResults": 3,
+                            "isSelected": false,
+                            "query": null,
+                            "children": null,
+                            "sortIndex": 100
+                        },
+                        {
+                            "value": "Cases by country",
+                            "availableResults": 1,
+                            "isSelected": false,
+                            "query": null,
+                            "children": null,
+                            "sortIndex": 100
+                        },
+                        {
+                            "value": "Seasonal cases",
+                            "availableResults": 1,
+                            "isSelected": false,
+                            "query": null,
+                            "children": null,
+                            "sortIndex": 100
+                        }
+                    ],
+                    "sortIndex": 3
+                },
+                {
+                    "value": "Value Beer Cases",
+                    "availableResults": 12,
+                    "isSelected": false,
+                    "query": null,
+                    "children": [],
+                    "sortIndex": 4
+                },
+                {
+                    "value": "Home Beer Taps",
+                    "availableResults": 25,
+                    "isSelected": false,
+                    "query": null,
+                    "children": [
+                        {
+                            "value": "Starter Set",
+                            "availableResults": 20,
+                            "isSelected": false,
+                            "query": null,
+                            "children": null,
+                            "sortIndex": 100
+                        },
+                        {
+                            "value": "BLADE",
+                            "availableResults": 3,
+                            "isSelected": false,
+                            "query": null,
+                            "children": null,
+                            "sortIndex": 100
+                        },
+                        {
+                            "value": "The SUB",
+                            "availableResults": 2,
+                            "isSelected": false,
+                            "query": null,
+                            "children": null,
+                            "sortIndex": 100
+                        }
+                    ],
+                    "sortIndex": 5
+                },
+                {
+                    "value": "All Accessories",
+                    "availableResults": 22,
+                    "isSelected": false,
+                    "query": null,
+                    "children": [],
+                    "sortIndex": 6
+                }
+            ],
+            "filterType": 0,
+            "title": "Categories ",
+            "query": "productType"
+        },
+        {
+            "subQuery": null,
+            "filterOptions": [
+                {
+                    "value": "Lager",
+                    "availableResults": 41,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Blond Beer",
+                    "availableResults": 16,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "IPA",
+                    "availableResults": 16,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "German Wheat Beer",
+                    "availableResults": 7,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Tripel Beer",
+                    "availableResults": 6,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Cider",
+                    "availableResults": 5,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Bock Beer",
+                    "availableResults": 3,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Dubbel Beer",
+                    "availableResults": 3,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Quadrupel Beer",
+                    "availableResults": 3,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Brown Ale",
+                    "availableResults": 2,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Fruit Beer",
+                    "availableResults": 2,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Pale Ale",
+                    "availableResults": 2,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "White Beer",
+                    "availableResults": 2,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Pilsner & Hoppy Lager",
+                    "availableResults": 1,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Saison Beer",
+                    "availableResults": 1,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                }
+            ],
+            "filterType": 0,
+            "title": "Styles",
+            "query": "style"
+        },
+        {
+            "subQuery": null,
+            "filterOptions": [
+                {
+                    "value": "Floral & Fruity",
+                    "availableResults": 38,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Crisp & Refreshing",
+                    "availableResults": 31,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Hoppy & Bitter",
+                    "availableResults": 21,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Strong & Savory",
+                    "availableResults": 19,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Easy & Refreshing",
+                    "availableResults": 11,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Caramel & Honey",
+                    "availableResults": 10,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Spicy & Herbal",
+                    "availableResults": 10,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Dark & Rich",
+                    "availableResults": 9,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Barrel aged",
+                    "availableResults": 2,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Experimental",
+                    "availableResults": 2,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                }
+            ],
+            "filterType": 0,
+            "title": "Taste",
+            "query": "taste"
+        },
+        {
+            "subQuery": null,
+            "filterOptions": [
+                {
+                    "value": "Belgium",
+                    "availableResults": 29,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "The Netherlands",
+                    "availableResults": 16,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Austria",
+                    "availableResults": 15,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "United Kingdom",
+                    "availableResults": 10,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Italy",
+                    "availableResults": 9,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "France",
+                    "availableResults": 8,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "United States of America",
+                    "availableResults": 7,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Germany",
+                    "availableResults": 6,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Singapore",
+                    "availableResults": 3,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Spain",
+                    "availableResults": 2,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Greece",
+                    "availableResults": 1,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Ireland",
+                    "availableResults": 1,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Jamaica",
+                    "availableResults": 1,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                }
+            ],
+            "filterType": 0,
+            "title": "Country of origin",
+            "query": "country"
+        },
+        {
+            "subQuery": null,
+            "filterOptions": [
+                {
+                    "value": "Vegan",
+                    "availableResults": 29,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Low & no alcohol",
+                    "availableResults": 3,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Gluten free",
+                    "availableResults": 2,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Organic",
+                    "availableResults": 2,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                }
+            ],
+            "filterType": 0,
+            "title": "Category",
+            "query": "category"
+        },
+        {
+            "subQuery": null,
+            "filterOptions": [
+                {
+                    "value": "SUB Kegs - 2L keg",
+                    "availableResults": 41,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Bottle",
+                    "availableResults": 32,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "BLADE - 8L keg",
+                    "availableResults": 27,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Draught Keg - 5L keg",
+                    "availableResults": 9,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                },
+                {
+                    "value": "Can",
+                    "availableResults": 1,
+                    "isSelected": false,
+                    "query": null,
+                    "children": null,
+                    "sortIndex": 0
+                }
+            ],
+            "filterType": 0,
+            "title": "Packaging Types",
+            "query": "container"
+        }
+    ],
+    "sortingOptions": [
+        {
+            "value": "popularity",
+            "name": "Popularity"
+        },
+        {
+            "value": "relevance",
+            "name": "Relevance"
+        },
+        {
+            "value": "alphabetical",
+            "name": "Alphabetic"
+        },
+        {
+            "value": "pricedesc",
+            "name": "Price (descending)"
+        },
+        {
+            "value": "priceasc",
+            "name": "Price (ascending)"
+        },
+        {
+            "value": "abvdesc",
+            "name": "Alcohol (descending)"
+        },
+        {
+            "value": "abvasc",
+            "name": "Alcohol (ascending)"
+        }
+    ],
+    "categoryBanner": null
+}

@@ -1,0 +1,11 @@
+{
+    "code": "CFSAPI001",
+    "date": "2022-11-05T09:16:21.999+0000",
+    "host": "mis-statspro-58c6b8845f-dfs2k",
+    "mdc": "@AEtm@",
+    "path": "/statspro/playersStats/seasons/CD_S2022014",
+    "status": 401,
+    "techMessage": "Access to this site is forbidden",
+    "userMessage": "Access to this site is forbidden",
+    "version": "2.0.254"
+}
