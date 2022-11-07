@@ -13,7 +13,7 @@ headers = {
 
 def all_product_links():
     product_links = []
-    for x in range(1, 6):
+    for x in range(1, 2):
         response = requests.get(f'https://www.thewhiskyexchange.com/c/35/japanese-whisky?pg={x}').content
         bs4 = BeautifulSoup(response, 'lxml')
         product_list = bs4.findAll('li', class_='product-grid__item')
@@ -42,9 +42,14 @@ def product_info(product_links: list):
                 u'\xa0', '')
         except AttributeError as ex:
             reviews = 'no views'
+        try:
+            percent_alchogol = bs4.find('p', class_='product-main__data').text.strip()
+        except:
+            percent_alchogol = None
 
         products_info.append({
             'name': name,
+            'percent_alchogol': percent_alchogol,
             'rating': rating,
             'price': price,
             'reviews': reviews
@@ -63,8 +68,8 @@ def to_scv(products_info: list):
     #         row = {'name': key}
     #         row.update(value)
     #         writer.writerow(row)
-    df = pd.DataFrame(product_info)
-    df.to_csv('japanise_wiskey1.csv')
+    df = pd.DataFrame(products_info)
+    df.to_csv('japanise_wiskey.csv')
 
 
 def main():
