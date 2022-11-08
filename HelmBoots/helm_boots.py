@@ -8,7 +8,6 @@ products_data_list = []
 
 def get_all_product_links():
     response = session.get('https://helmboots.com/collections/shop')
-    response.html.render(timeout=30)
 
     all_products = response.html.find('div.gc-product')
 
@@ -19,7 +18,7 @@ def get_product_data(product_links: list):
     count = 1
     for link in product_links:
         response = session.get(link)
-        response.html.render(timeout=30)
+        response.html.render(timeout=40)
 
         name = response.html.find('h1.product-single__title.libre', first=True).text
         price = response.html.find('span#ProductPrice-product-with-banner-template', first=True).text
