@@ -11,4 +11,5 @@ class Webdriver_options:
     def configuration():
         chrome_options = Options()
         chrome_options.add_argument('--no-sandbox')
+        chrome_options.add_experimental_option("detach", True)
         return chrome_options
