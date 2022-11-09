@@ -1,7 +1,7 @@
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from Webdriver_folder.Webdriver_options import Webdriver_options
+from Webdriver_options import Webdriver_options
 import time
 
 
