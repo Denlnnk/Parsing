@@ -7,16 +7,20 @@ import time
 
 class Youtube:
 
-    def __init__(self, youtube_owner: str):
+    def __init__(self, youtube_owner: str, channel_type: str):
         self.driver = webdriver.Chrome(executable_path=Webdriver_options.chromedriver_path(),
                                        options=Webdriver_options.configuration())
         self.youtube_owner = youtube_owner
-        self.url = f'https://www.youtube.com/c/{youtube_owner}/videos'
+        if channel_type == 'c':
+            self.url = f'https://www.youtube.com/c/{youtube_owner}/videos'
+        else:
+            self.url = f'https://www.youtube.com/channel/{youtube_owner}/videos'
         self.videos_info = []
 
     def get_data(self):
         self.driver.get(self.url)
 
+        self.youtube_owner = self.driver.find_element(By.XPATH, '//*[@id="text"]').text
         popular_button = self.driver.find_element(By.XPATH, '//*[@id="chips"]/yt-chip-cloud-chip-renderer[2]')
         popular_button.click()
         time.sleep(2)
@@ -52,8 +56,9 @@ class Youtube:
 
 
 def main():
-    youtube_owner = str(input('Write name of youtube channel'))
-    youtube_page = Youtube(youtube_owner)
+    channel_type = str(input('Write channel type: "c" or "channel "'))
+    youtube_owner = str(input('Write name of youtube channel '))
+    youtube_page = Youtube(youtube_owner, channel_type)
     youtube_page.get_data()
     youtube_page.save_to_scv()
 
