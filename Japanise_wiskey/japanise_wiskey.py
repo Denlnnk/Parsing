@@ -69,7 +69,7 @@ def to_scv(products_info: list):
     #         row.update(value)
     #         writer.writerow(row)
     df = pd.DataFrame(products_info)
-    df.to_csv('japanise_wiskey.csv')
+    df.to_csv('japanise_wiskey.csv', index=False)
 
 
 def main():
