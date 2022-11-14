@@ -22,7 +22,7 @@ def get_data():
         for item in data['items']:
             try:
                 product_img_url = baseurl + item['images'][0]['image']
-            except:
+            except KeyError:
                 product_img_url = None
             items_list.append({
                 'title': item['title'],

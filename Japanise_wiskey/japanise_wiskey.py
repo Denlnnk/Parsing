@@ -1,7 +1,7 @@
 import requests
-from bs4 import BeautifulSoup
-import csv
 import pandas as pd
+from bs4 import BeautifulSoup
+
 
 baseurl = 'https://www.thewhiskyexchange.com'
 
@@ -35,21 +35,21 @@ def product_info(product_links: list):
         price = bs4.find('p', class_='product-action__price').text.strip()
         try:
             rating = bs4.find('p', class_='review-overview__content').find('span').text.strip()
-        except AttributeError as ex:
+        except AttributeError:
             rating = 'no rating'
         try:
             reviews = bs4.find('span', class_='review-overview__count').text.strip().replace('&nbsp', '').replace(
                 u'\xa0', '')
-        except AttributeError as ex:
+        except AttributeError:
             reviews = 'no views'
         try:
-            percent_alchogol = bs4.find('p', class_='product-main__data').text.strip()
-        except:
-            percent_alchogol = None
+            percent_alcohol = bs4.find('p', class_='product-main__data').text.strip()
+        except AttributeError:
+            percent_alcohol = None
 
         products_info.append({
             'name': name,
-            'percent_alchogol': percent_alchogol,
+            'percent_alcohol': percent_alcohol,
             'rating': rating,
             'price': price,
             'reviews': reviews

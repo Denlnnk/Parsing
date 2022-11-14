@@ -1,7 +1,7 @@
 import json
 import csv
-from bs4 import BeautifulSoup
 import requests
+from bs4 import BeautifulSoup
 
 
 def get_card_less_price(url: str, price: int):

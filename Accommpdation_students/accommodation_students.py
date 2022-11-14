@@ -1,5 +1,4 @@
 import json
-
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
@@ -23,36 +22,36 @@ def get_data():
 
         try:
             property_type = place['property']['propertyType']
-        except:
+        except KeyError:
             property_type = None
 
         try:
             place_price = place['property']['terms']['rentPpw']['value']
-        except:
+        except KeyError:
             place_price = None
 
         try:
             total = place['property']['occupancy']['total']
             available = place['property']['occupancy']['available']
-        except:
+        except KeyError:
             total = None
             available = None
 
         try:
             place_address = place['property']['address']['area'] + ' ' + place['property']['address']['city']
-        except:
+        except KeyError:
             place_address = None
 
         try:
             place_url = 'https://www.accommodationforstudents.com' + place['property']['url']
-        except:
+        except KeyError:
             place_url = None
 
         try:
             place_images = []
             for x in range(len(place['property']['images'])):
                 place_images.append(place['property']['images'][x]['url'])
-        except:
+        except KeyError:
             place_images = None
 
         data_list.append({

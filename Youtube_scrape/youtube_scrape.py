@@ -1,8 +1,8 @@
+import time
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from Webdriver_options import Webdriver_options
-import time
 
 
 class Youtube:

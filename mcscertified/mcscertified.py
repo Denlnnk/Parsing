@@ -1,12 +1,12 @@
+import time
+import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.support.wait import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support import expected_conditions as ec
 from Webdriver_folder.Webdriver_options import Webdriver_options
 from datetime import date
-import pandas as pd
-import time
 
 
 class Mcscertified:
@@ -27,7 +27,7 @@ class Mcscertified:
 
         self.driver.find_element(By.XPATH, '//*[@id="msw-result-filters"]/div[1]/div[1]/div[1]/label').click()
         WebDriverWait(self.driver, 20).until(
-            EC.element_to_be_clickable((By.XPATH, '//*[@id="msw-installer-filter-apply"]'))).click()
+            ec.element_to_be_clickable((By.XPATH, '//*[@id="msw-installer-filter-apply"]'))).click()
 
         select = Select(self.driver.find_element(By.XPATH, '//*[@id="msw-show-nearest-select"]'))
         select.select_by_visible_text('50')

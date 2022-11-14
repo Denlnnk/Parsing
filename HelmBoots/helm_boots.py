@@ -24,11 +24,11 @@ def get_product_data(product_links: list):
         price = response.html.find('span#ProductPrice-product-with-banner-template', first=True).text
         try:
             rating = response.html.find('span.stamped-summary-text-1', first=True).text
-        except:
+        except AttributeError:
             rating = 'none'
         try:
             reviews = response.html.find('span.stamped-summary-text', first=True).text
-        except:
+        except AttributeError:
             reviews = 'none'
         img_src = base_url + response.html.find('img#FeaturedImage-product-with-banner-template', first=True).attrs['src']
         products_data_list.append({

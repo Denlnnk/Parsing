@@ -1,10 +1,9 @@
 import time
-
-import pandas as pd
 import requests
+import pandas as pd
 from bs4 import BeautifulSoup
 from selenium import webdriver
-from selenium.webdriver.support.ui import Select
+from selenium.webdriver.common.by import By
 from Webdriver_folder.Webdriver_options import Webdriver_options
 
 baseurl = 'https://www.sunglasshut.com'
@@ -42,10 +41,10 @@ def result_info(links: list):
                                   options=Webdriver_options.configuration())
         driver.get(link)
 
-        size_button = driver.find_element_by_xpath('.//*[@id="openSizesPopupBtn"]')
+        size_button = driver.find_element(By.XPATH, './/*[@id="openSizesPopupBtn"]')
         size_button.click()
         time.sleep(3)
-        size = driver.find_element_by_xpath('.//*[@id="757058"]/a/span[1]').text.strip()
+        size = driver.find_element(By.XPATH, './/*[@id="757058"]/a/span[1]').text.strip()
         print(size)
         driver.quit()
         products_info.append({
@@ -66,4 +65,4 @@ def to_scv(info: list):
 
 product_links = product_links()
 product_info = result_info(product_links)
-#to_scv(product_info)
+# to_scv(product_info)
