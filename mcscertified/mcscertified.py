@@ -1,13 +1,13 @@
-import pandas as pd
-import selenium
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from Webdriver_folder.Webdriver_options import Webdriver_options
-import time
 from datetime import date
+import pandas as pd
+import time
+
 
 
 class Mcscertified:
@@ -34,14 +34,8 @@ class Mcscertified:
         select.select_by_visible_text('50')
         time.sleep(7)
 
-        while True:
+        for i in range(1, 2):
             time.sleep(10)
-            try:
-                self.driver.find_element(By.CLASS_NAME, 'paginate_button next disabled')
-            except selenium.common.exceptions.NoSuchElementException as ex:
-                pass
-            else:
-                break
             all_elements = self.driver.find_elements(By.CLASS_NAME, 'msw-list-view-item')
 
             all_elements_len = 0
@@ -57,6 +51,18 @@ class Mcscertified:
                 certification_period = element.find_element(By.XPATH, './/div[1]/div[4]/div[2]').text
                 current_certification_status = element.find_element(By.XPATH, './/div[1]/div[4]/div[5]').text
 
+                rows = 1 + len(element.find_elements(By.XPATH, './/table/tbody/tr'))
+                scop_values = []
+
+                for r in range(1, rows):
+                    for p in range(1, 2):
+                        # obtaining the text from each column of the table
+                        first = element.find_element(By.XPATH,
+                                                     f".//table/tbody/tr[{str(r)}]/td[{str(p)}]").text
+                        second = element.find_element(By.XPATH,
+                                                      f".//table/tbody/tr[{str(r)}]/td[{str(p + 1)}]").text
+                        scop_values.append((first, second))
+
                 self.elements_info.append({
                     'Manufacturer': manufacturer,
                     'Product_name': product_name,
@@ -65,7 +71,8 @@ class Mcscertified:
                     'Certification_body': certification_body,
                     'Website': website,
                     'Certification_period': certification_period,
-                    'Current_certification_status': current_certification_status
+                    'Current_certification_status': current_certification_status,
+                    'SCOP values': scop_values
                 })
             all_elements_len += len(all_elements)
             print(f'Collected {all_elements_len} items')
