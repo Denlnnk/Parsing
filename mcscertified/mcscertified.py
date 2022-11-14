@@ -9,7 +9,6 @@ import pandas as pd
 import time
 
 
-
 class Mcscertified:
 
     def __init__(self, url: str):
