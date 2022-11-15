@@ -37,7 +37,7 @@ def get_data():
 
 def to_csv(product_info: list):
     df = pd.DataFrame(product_info)
-    df.to_csv('BeerWulf_data.csv', index=False)
+    df.to_csv('static/BeerWulf_data.csv', index=False)
 
 
 def main():

@@ -80,7 +80,7 @@ class Mcscertified:
 
     def save_to_scv(self):
         df = pd.DataFrame(self.elements_info)
-        df.to_csv(f'{self.current_date}.csv', index=False)
+        df.to_csv(f'static/{self.current_date}.csv', index=False)
         print('Saved to csv')
 
 

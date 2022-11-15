@@ -71,11 +71,11 @@ def get_data():
 
 def to_scv(places_list: list):
     df = pd.DataFrame(places_list)
-    df.to_csv('accommodation_students.csv', index=False)
+    df.to_csv('static/accommodation_students.csv', index=False)
 
 
 def to_json(places_list: list):
-    with open('accommodation_data.json', 'w') as file:
+    with open('static/accommodation_data.json', 'w') as file:
         json.dump(places_list, file)
 
 

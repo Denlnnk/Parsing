@@ -44,7 +44,7 @@ def get_data():
 
 def to_scv(players_data: list):
     df = pd.DataFrame(players_data)
-    df.to_csv('players_data.csv', index=False)
+    df.to_csv('static/players_data.csv', index=False)
 
 
 def main():

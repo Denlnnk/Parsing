@@ -51,7 +51,7 @@ class Youtube:
 
     def save_to_scv(self):
         df = pd.DataFrame(self.videos_info)
-        df.to_csv(f'{self.youtube_owner}.csv', index=False)
+        df.to_csv(f'static/{self.youtube_owner}.csv', index=False)
         print('Saved to csv')
 
 

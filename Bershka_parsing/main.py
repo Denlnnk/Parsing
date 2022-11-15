@@ -22,13 +22,13 @@ def get_card_less_price(url: str, price: int):
 
 
 def to_json(info: list):
-    with open('data.json', 'w') as file:
+    with open('static/data.json', 'w') as file:
         json.dump(info, file, ensure_ascii=False, indent=4)
 
 
 def to_csv(info: list):
     csv_columns = ['title', 'price']
-    with open('data.csv', 'w') as csv_file:
+    with open('static/data.csv', 'w') as csv_file:
         writer = csv.DictWriter(csv_file, fieldnames=csv_columns)
         writer.writeheader()
         for data in info:
