@@ -70,6 +70,7 @@ def to_scv(products_info: list):
     #         writer.writerow(row)
     df = pd.DataFrame(products_info)
     df.to_csv('static/japanise_wiskey.csv', index=False)
+    print('Saved to csv')
 
 
 def main():
