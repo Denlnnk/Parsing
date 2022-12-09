@@ -7,7 +7,7 @@ baseurl = 'https://www.thewhiskyexchange.com'
 
 headers = {
     'User-Agent':
-        'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36'
+        'Mozilla/5.0 (Linux; Android 7.0; SM-G892A Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.107 Mobile Safari/537.36'
 }
 
 
@@ -54,7 +54,7 @@ def product_info(product_links: list):
             'price': price,
             'reviews': reviews
         })
-        print(f'Collected {count} pages')
+        print(f'Collected {count} items')
 
     return products_info
 
@@ -69,7 +69,7 @@ def to_scv(products_info: list):
     #         row.update(value)
     #         writer.writerow(row)
     df = pd.DataFrame(products_info)
-    df.to_csv('static/japanise_wiskey.csv', index=False)
+    df.to_csv('japanise_wiskey.csv', index=False)
     print('Saved to csv')
 
 
